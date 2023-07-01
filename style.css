@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(80, 79, 79);
+    margin: 0px;
+}
+
+.main{
+    border: 4px solid goldenrod;
+    height: 600px;
+    text-align: center;
+}
+
+.picter img{
+    width: 150px;
+    height: 150px;
+    border: 3px solid goldenrod;
+    border-radius: 50%;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
+b{
+    color: goldenrod;
+}
+
+.links{
+    display: block;
+    border: 3px solid goldenrod;
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: -2px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+.copy{
+    padding: 20px;
+}
+
+span{
+    color: goldenrod;
+}
